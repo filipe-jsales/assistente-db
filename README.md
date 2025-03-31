@@ -1,10 +1,3 @@
-# TODO:
-
-- Adicionar uma interface visual para o chatbot como por exemplo OpenWebUI ou Chailint ou similares
-- Utilizar um contexto de banco de dados
-- Adicionar instruções pro modelo PAPEL, INSTRUÇÃO E TAREFA
-- adicionar env
-
 
 fluxo inicial:
 

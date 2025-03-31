@@ -1,0 +1,9 @@
+chrome-data/*
+/chrome-data/*
+whatsapp_session.pkl
+__pycache__/
+.vscode/
+/duta/
+.env
+/chrome-data/
+chroma_db
